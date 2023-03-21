@@ -6,4 +6,5 @@
 
 ### Step1: Setup a django project
 
+```python manage.py runserver```
 
